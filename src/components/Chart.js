@@ -1,28 +1,7 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
-// import {
-//   Chart as ChartJS,
-//   CategoryScale,
-//   LinearScale,
-//   PointElement,
-//   LineElement,
-//   Title,
-//   Tooltip,
-//   Filler,
-//   Legend,
-// } from "chart.js";
 import { Line } from "react-chartjs-2";
 import ChartJS from "chart.js/auto";
-
-// ChartJS.register(
-//   CategoryScale,
-//   LinearScale,
-//   PointElement,
-//   LineElement,
-//   Title,
-//   Tooltip,
-//   Filler,
-//   Legend
-// );
 
 const Chart = ({ chartData }) => {
   const { dates, temps } = chartData;

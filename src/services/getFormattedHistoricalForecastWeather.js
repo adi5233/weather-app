@@ -7,9 +7,9 @@ const getFormattedHistoricalForecastWeather = async ({ lat, lon, dataFor }) => {
 
   let startDate, endDate;
 
-  if (dataFor == "lastMonth") {
+  if (dataFor === "lastMonth") {
     ({ startDate, endDate } = getPreviousMonthDates());
-  } else if (dataFor == "lastWeek") {
+  } else if (dataFor === "lastWeek") {
     ({ startDate, endDate } = getLastWeekDates());
   } else {
     startDate = "2024-03-01";
