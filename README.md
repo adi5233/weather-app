@@ -18,8 +18,8 @@ Implemented:
 
 1. Features:
 
-   - dynamic page based on city, user can select the city from search city input, and exprience the current weather details of that city
-   - temperature chart is implmented, which has also selct component. user can see that last month and last week temperature details
+   - dynamic page based on city, user can select the city from search city input, and experience the current weather details of that city
+   - temperature chart is implemented, which has also a select component. user can see that last month's and last week's temperature details
 
 2. Tech Stack:
 
