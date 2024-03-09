@@ -2,7 +2,13 @@ This is a repository for Rigi's Assignment Solution built using ReactJS.
 
 ## [Live here](https://main--forecast-finesse.netlify.app/)
 
-![Alt text](<Screenshot 2024-03-06 at 5.55.48 PM.png>)
+![Alt text](<Screenshot 2024-03-09 at 5.38.50 PM.png>)
+
+![Alt text](<Screenshot 2024-03-09 at 5.39.34 PM.png>)
+
+![Alt text](<Screenshot 2024-03-09 at 5.40.20 PM.png>)
+
+![Alt text](<Screenshot 2024-03-09 at 5.40.38 PM.png>)
 
 Objective: weather app
 
