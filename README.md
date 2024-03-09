@@ -4,13 +4,13 @@ This is a repository for Rigi's Assignment Solution built using ReactJS.
 
 ## [Figma](https://www.figma.com/file/HN9edMY7VOkRenlriCXskc/weather-screens?type=design&node-id=0-1&mode=design&t=igts4EW2NbS6zaU9-0)
 
-![Alt text](<Screenshot 2024-03-09 at 5.38.50 PM.png>)
+<!-- ![Alt text](<Screenshot 2024-03-09 at 5.38.50 PM.png>)
 
 ![Alt text](<Screenshot 2024-03-09 at 5.39.34 PM.png>)
 
 ![Alt text](<Screenshot 2024-03-09 at 5.40.20 PM.png>)
 
-![Alt text](<Screenshot 2024-03-09 at 5.40.38 PM.png>)
+![Alt text](<Screenshot 2024-03-09 at 5.40.38 PM.png>) -->
 
 Objective: weather app
 
