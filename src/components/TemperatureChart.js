@@ -54,13 +54,13 @@ const TemperatureChart = ({ weather }) => {
 
   return (
     <div className="h-64 flex flex-col px-8">
-      <div className="px-8 py-2 flex flex-row justify-between">
+      <div className="py-2 flex flex-row justify-between">
         <div>
           <h1 className="text-2xl">Temperature</h1>
         </div>
         <div className="">
           <Select
-            className="rounded-3xl"
+            className="rounded-3xl w-30 text-sm"
             options={options}
             styles={customStyles}
             value={selectedOption}
