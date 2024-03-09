@@ -53,7 +53,7 @@ const Header = ({ setQuery }) => {
             <div className="flex items-center absolute top-44 left-10">
               <div className="flex text-white flex-row items-center bg">
                 <SlLocationPin className="h-7 w-7" />
-                <h1 className="text-xl text-white w-30 ml-2">
+                <h1 className="text-lg text-white w-30 ml-2">
                   CURRENT LOACTION
                 </h1>
               </div>
@@ -80,7 +80,7 @@ const Header = ({ setQuery }) => {
               </button>
             </div>
             <div className="flex items-center absolute top-60 left-10">
-              <h1 className="text-6xl text-white w-30">
+              <h1 className="text-5xl text-white w-30">
                 New York, United States
               </h1>
             </div>
